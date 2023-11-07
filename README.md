@@ -4,7 +4,7 @@ How-To and Scripts related to Hosting
 Here you will find recommanded how-to and scripts for Hosting and related services.
 
 For example if you want to <a href="https://www.speedhub.eu/vps.php">buy a vps server</a> from us and want to deploy PHP 8.X here you will find the steps-by-step tutorial.
-Also part of the turotials are posted frequently on https://www.speedhub.eu/blog/
+Also part of the tutorials are posted frequently on https://www.speedhub.eu/blog/
 
 
 
